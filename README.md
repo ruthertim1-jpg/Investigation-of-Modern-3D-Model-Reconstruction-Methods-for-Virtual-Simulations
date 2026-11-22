@@ -20,7 +20,7 @@ A smartphone records the pallet. The images are filtered and processed with COLM
 
 <!-- Replace this line with your GitHub-uploaded MP4 URL or a linked video thumbnail. -->
 
-🎥 **[Watch the Gaussian Splatting demo](images/gaussian-splatting-demo.mp4)** *(add video before publishing)*
+🎥 **[Watch the Gaussian Splatting demo](images/Fly_with_EPAL.mp4)** *This Video of a Gaussian Splat can be created in SplatKing*
 
 ## From Reconstruction to Simulation
 
@@ -43,10 +43,10 @@ A smartphone records the pallet. The images are filtered and processed with COLM
 
 | Resource | File |
 |---|---|
-| Image / video frame filtering | [Filter scripts](scripts/data_filtering/) |
-| Visual and geometric metrics | [Evaluation scripts](scripts/evaluation/) |
-| Reconstructed 3D assets | [Models](models/) |
-| Full bachelor's thesis | [Thesis PDF](docs/thesis.pdf) |
+| Image / video frame filtering | [Filter scripts](data_filtering/) |
+| Visual and geometric metrics | [Evaluation scripts](evaluation/) |
+
+
 
 *Add the original scripts, models and thesis PDF to these folders before publishing. They are not included in this package.*
 
