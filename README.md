@@ -20,7 +20,7 @@ A smartphone records the pallet. The images are filtered and processed with COLM
 
 
 
-🎥 **[Watch the Gaussian Splat of an EPAL](images/Fly_with_EPAL.mp4)(https://github.com/ruthertim1-jpg/Investigation-of-Modern-3D-Model-Reconstruction-Methods-for-Virtual-Simulations/blob/main/images/Fly_with_EPAL.mp4)** *This Video of a Gaussian Splat can be created in SplatKing*
+🎥 **[Watch the Gaussian Splat of an EPAL]('/Users/timruther/Library/Mobile Documents/com~apple~CloudDocs/Bachelorarbeit/Fotos_Rechner/Fly_with_EPAL.mp4')** *This Video of a Gaussian Splat can be created in SplatKing*
 
 ## From Reconstruction to Simulation
 
