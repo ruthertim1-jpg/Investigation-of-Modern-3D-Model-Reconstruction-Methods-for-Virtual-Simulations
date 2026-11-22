@@ -14,7 +14,7 @@ A smartphone records the pallet. The images are filtered based on the linked fil
 
 ![Comparison of GOF, Triangle Splatting and SuGaR](images/splatting-comparison.png)
 
-*From left to right: GOF, Triangle Splatting and SuGaR (Thesis, Fig. 4-7).*
+*From left to right: Gaussian Opacity Field (GOF), Triangle Splatting and Surface Aligned Gaussian Splatting(SuGaR) (Thesis, Fig. 4-7).*
 
 
 
@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/7a1cf8dd-ebfe-4257-9459-6f1c9aa29063
 ## Key Findings
 
 - **Video + FFT filtering** provided an effective input workflow.
-- **Gaussian Splatting** produced strong visual results; Triangle Splatting was less practical to integrate.
+- **Gaussian Splatting** produced strong visual results. Triangle Splatting was less practical to integrate.
 - **SuGaR and GOF** both produced usable meshes, but additional cleanup was needed.
 - **Unity tests** demonstrated LiDAR detection and basic collision interactions. A visually accurate model still needs appropriate collision geometry.
 
