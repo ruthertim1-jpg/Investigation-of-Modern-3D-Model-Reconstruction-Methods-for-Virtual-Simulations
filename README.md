@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/7a1cf8dd-ebfe-4257-9459-6f1c9aa29063
 
 ![Unity collision and physical interaction tests](images/unity-simulation.png)
 
-*Collision tests in Unity (Thesis, Fig. 5-2).*
+
 
 ## Key Findings
 
@@ -44,14 +44,15 @@ https://github.com/user-attachments/assets/7a1cf8dd-ebfe-4257-9459-6f1c9aa29063
 
 ## Code & Downloads
 
-| Resource | File |
+| Script | Description |
 |---|---|
-| Image / video frame filtering | [Filter scripts](data_filtering/) |
-| Visual and geometric metrics | [Evaluation scripts](evaluation/) |
+| [FFT Detection](FFT_detection.py) | Frequency-based image filtering |
+| [Laplacian Detection](Laplace_detection.py) | Blur detection |
+| [SuperPoint](SuperPoint.py) | Feature-based image evaluation |
+| [GOF Mesh Evaluation](gof_chamfer_evaluation.py) | Geometric reconstruction evaluation |
 
 
 
-*Add the original scripts, models and thesis PDF to these folders before publishing. They are not included in this package.*
 
 ## Built With
 
