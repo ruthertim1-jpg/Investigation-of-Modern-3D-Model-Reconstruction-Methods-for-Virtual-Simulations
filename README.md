@@ -6,13 +6,13 @@ Can a simple smartphone video be turned into a 3D object that works in a physics
 
 ## The Pipeline
 
-![Reconstruction pipeline from the thesis](media/images/pipeline.png)
+![Reconstruction pipeline from the thesis](images/pipeline.png)
 
 A smartphone records the pallet. The images are filtered and processed with COLMAP, reconstructed using modern splatting methods, converted to meshes and tested in Unity.
 
 ## Gaussian Splatting
 
-![Comparison of GOF, Triangle Splatting and SuGaR](media/images/splatting-comparison.png)
+![Comparison of GOF, Triangle Splatting and SuGaR](images/splatting-comparison.png)
 
 *From left to right: GOF, Triangle Splatting and SuGaR (Thesis, Fig. 4-7).*
 
@@ -20,15 +20,15 @@ A smartphone records the pallet. The images are filtered and processed with COLM
 
 <!-- Replace this line with your GitHub-uploaded MP4 URL or a linked video thumbnail. -->
 
-🎥 **[Watch the Gaussian Splatting demo](media/videos/gaussian-splatting-demo.mp4)** *(add video before publishing)*
+🎥 **[Watch the Gaussian Splatting demo](images/gaussian-splatting-demo.mp4)** *(add video before publishing)*
 
 ## From Reconstruction to Simulation
 
-![GOF mesh reconstruction](media/images/gof-mesh.png)
+![GOF mesh reconstruction](images/gof-mesh.png)
 
 *Extracted GOF mesh from different angles (Thesis, Fig. 4-9).*
 
-![Unity collision and physical interaction tests](media/images/unity-simulation.png)
+![Unity collision and physical interaction tests](images/unity-simulation.png)
 
 *Collision tests in Unity (Thesis, Fig. 5-2).*
 
