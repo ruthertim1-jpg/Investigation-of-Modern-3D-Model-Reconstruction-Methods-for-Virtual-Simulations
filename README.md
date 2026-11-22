@@ -1,14 +1,14 @@
-# From Reality to Simulation
+
 
 **3D Reconstruction for Virtual Simulations | Bachelor's Thesis · TUM · 2026**
 
-Can a simple smartphone video be turned into a 3D object that works in a physics simulation? This project tests a complete **real-to-sim pipeline** using an EPAL pallet — from image capture to reconstruction, mesh extraction and Unity.
+Can a simple smartphone video be turned into a 3D object that works in a physics simulation? This Thesis tests a complete **real-to-sim pipeline** using an EPAL pallet. From image capture to reconstruction, mesh extraction and Unity.
 
 ## The Pipeline
 
 ![Reconstruction pipeline from the thesis](images/pipeline.png)
 
-A smartphone records the pallet. The images are filtered and processed with COLMAP, reconstructed using modern splatting methods, converted to meshes and tested in Unity.
+A smartphone records the pallet. The images are filtered based on the linked filters and processed with COLMAP, reconstructed using modern splatting methods, converted to meshes and tested in Unity.
 
 ## Gaussian Splatting
 
